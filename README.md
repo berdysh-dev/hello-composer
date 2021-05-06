@@ -1,3 +1,6 @@
 # helloworld
 
 テスト
+
+VS Code と GitHubの連携のテスト用に作った仮のレポジトリです。
+
