@@ -8,3 +8,4 @@ VSで修正しました。
 あああ
 いいい
 
+AndroidStudioから更新
