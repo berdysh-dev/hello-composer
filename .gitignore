@@ -1,2 +1,3 @@
-.vs
-composer.lock
+/.vs
+/composer.lock
+/vendor/
