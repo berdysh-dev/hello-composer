@@ -1,7 +1,7 @@
 {
     "name": "berdysh-dev/helloworld",
-
     "description": "this is a hello world repo for composer.",
+    "keywords": ["hello", "world"],
     "license": "Apache-2.0",
     "authors": [
         {
@@ -9,8 +9,12 @@
             "email": "berdysh.dev@gmail.com"
         }
     ],
-    "autoload": {
-        "psr-4": { "berdysh_dev\\": "src" }
+    "require": {
+        "php": "^5.4.3",
     },
-    "require": {}
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": { "berdysh_dev\\": "src/" }
+    },
 }
