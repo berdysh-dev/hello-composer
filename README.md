@@ -1,6 +1,9 @@
 # helloworld
 
-VS Code と GitHubの連携のテスト用に作った仮のレポジトリです。
-VSで修正しました。
+GitHubとComposer(packagist) の連携のテスト用に作った仮のレポジトリです。
 
-AndroidStudioから更新
+https://packagist.org/packages/berdysh-dev/helloworld
+
+composer require berdysh-dev/helloworld
+
+
