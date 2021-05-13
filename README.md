@@ -2,7 +2,9 @@
 
 GitHubとComposer(packagist) をWebhooksで自動連携させるテスト用に作ったサンプルレポジトリです。
 
-https://github.com/berdysh-dev/helloworld
-https://packagist.org/packages/berdysh-dev/helloworld
+https://github.com/berdysh-dev/helloworld  
+https://berdysh-dev.github.io/helloworld/  
+
+https://packagist.org/packages/berdysh-dev/helloworld  
 
 composer require berdysh-dev/helloworld
