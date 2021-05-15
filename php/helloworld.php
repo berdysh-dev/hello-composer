@@ -16,6 +16,9 @@ class helloworld
         return $this->str;
     }
 
+    public static function version(){
+        return '1.0.11' ;
+    }
     
 }
 
