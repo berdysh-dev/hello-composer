@@ -10,10 +10,11 @@
         }
     ],
     "require": {
+        "php": "^5.6|^7.0|^8.0"
     },
     "require-dev": {
     },
     "autoload": {
-        "psr-4": { "berdysh_dev\\": "src/" }
+        "psr-4": { "berdysh_dev\\": "php/" }
     }
 }
