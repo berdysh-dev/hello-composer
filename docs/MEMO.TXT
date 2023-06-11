@@ -21,4 +21,6 @@ Content type
 application/json
 
 Secret
-APIトークン
+APIトークン？
+
+
