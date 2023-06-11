@@ -23,4 +23,13 @@ application/json
 Secret
 APIトークン？
 
+Update webhook で保存する
 
+Settings -> Recent Deliveries
+
+
+{"status":"error","message":"Could not find a package that matches this request (does user maintain the package?)"}
+
+The package name berdysh-dev/HelloComposer is invalid, it should not contain uppercase characters. We suggest using berdysh-dev/hello-composer instead.
+
+hello-composer
