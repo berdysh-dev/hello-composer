@@ -48,3 +48,6 @@ Git Hub側 の Recent Deliveries で [redelivery] を再実行して Response 20
 
 更新後のバージョン確認
 
+GitHub側でリリース操作をしないと、Composer側が更新されない
+
+Tags 付け
