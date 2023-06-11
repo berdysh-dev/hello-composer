@@ -32,4 +32,10 @@ Settings -> Recent Deliveries
 
 The package name berdysh-dev/HelloComposer is invalid, it should not contain uppercase characters. We suggest using berdysh-dev/hello-composer instead.
 
-hello-composer
+大文字は使えないので HelloComposer を hello-composer に変更
+
+https://packagist.org/packages/submit
+
+Repository URL (Git/Svn/Hg)
+https://github.com/berdysh-dev/hello-composer
+Submit
