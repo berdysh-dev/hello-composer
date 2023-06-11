@@ -2,7 +2,7 @@
 
 namespace berdysh_dev;
 
-class helloworld
+class HelloComposer
 {
     private $str;
     
