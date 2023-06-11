@@ -1,4 +1,4 @@
-# helloworld
+# HelloComposer
 
 GitHubとComposer(packagist) をWebhooksで自動連携させるテスト用に作ったサンプルレポジトリです。
 
