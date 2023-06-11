@@ -38,4 +38,13 @@ https://packagist.org/packages/submit
 
 Repository URL (Git/Svn/Hg)
 https://github.com/berdysh-dev/hello-composer
-Submit
+Check -> Submit
+
+This package is not auto-updated. Please set up the GitHub Hook for Packagist so that it gets updated whenever you push!
+
+Git Hub側 の Recent Deliveries で [redelivery] を再実行して Response 202
+
+{"status":"success","jobs":["**********"],"type":"github_auto"}
+
+
+
