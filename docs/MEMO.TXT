@@ -1,0 +1,1 @@
+Packagist と GitHubの自動連携設定
