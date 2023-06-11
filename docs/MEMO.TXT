@@ -52,3 +52,4 @@ GitHub側でリリース操作をしないと、Composer側が更新されない
 
 Tags 付け
 
+git tag -a v1.0.16 -m 'version 1.0.16'
