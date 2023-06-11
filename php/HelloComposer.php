@@ -17,7 +17,7 @@ class HelloComposer
     }
 
     public static function version(){
-        return '1.0.11' ;
+        return '1.2.*' ;
     }
     
 }
