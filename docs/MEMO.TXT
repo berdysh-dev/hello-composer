@@ -1,1 +1,24 @@
-Packagist と GitHubの自動連携設定
+PackagistとGitHubをWebHookで自動連携設定
+
+Packagist側でAPIトークンを発行する20桁の16進数
+(Profile のYour API Token)
+
+Payload URL
+https://packagist.org/api/github?username=berdysh-dev
+
+ログインした状態で公式ドキュメントを確認すると表示される
+https://packagist.org/about#how-to-update-packages
+
+GitHub側でログインする
+
+右上のSettings -> 左側メニューのWebHooks -> 右上のAdd webhook
+
+Payload URL
+
+Packagist側で発行した https://packagist.org/api/github?username=ユーザ名
+
+Content type
+application/json
+
+Secret
+APIトークン
