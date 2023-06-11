@@ -46,5 +46,5 @@ Git Hub側 の Recent Deliveries で [redelivery] を再実行して Response 20
 
 {"status":"success","jobs":["**********"],"type":"github_auto"}
 
-
+更新後のバージョン確認
 
